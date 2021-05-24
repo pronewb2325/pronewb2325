@@ -99,7 +99,7 @@
 	weaponname = "Bayonet",
 	skinname = "Doppler",
 	skinimage = "http://www.roblox.com/asset/?id=6857291541",
-	skinrarity = "Contraband",
+	skinrarity = "Knife",
 	model = {
 		["Handle"] = "http://www.roblox.com/asset/?id=6857291328",
 	}
