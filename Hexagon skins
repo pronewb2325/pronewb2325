@@ -98,10 +98,9 @@
 },{
 	weaponname = "Bayonet",
 	skinname = "Doppler",
-	skinimage = "http://www.roblox.com/asset/?id=6856342428",
+	skinimage = "http://www.roblox.com/asset/?id=6857291541",
 	skinrarity = "Contraband",
 	model = {
-		["Blade"] = "http://www.roblox.com/asset/?id=6856354730"
-		["Handle"] = "http://www.roblox.com/asset/?id=6856355045",
+		["Handle"] = "http://www.roblox.com/asset/?id=6857291328",
 	}
 }}
